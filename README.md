@@ -50,7 +50,7 @@ pip install -r requirements.txt
 streamlit run f1_app.py
 ```
 
-Opens at `http://localhost:8501` 🎉
+Opens at `http://localhost:8501` 
 
 ---
 
