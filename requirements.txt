@@ -1,0 +1,6 @@
+streamlit
+plotly
+fastf1
+scikit-learn
+requests
+pandas
